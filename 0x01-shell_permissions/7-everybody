@@ -1,2 +1,2 @@
 #!/bin/bash
-chmgod 751 hello /n
+chmod 751 hello /n
